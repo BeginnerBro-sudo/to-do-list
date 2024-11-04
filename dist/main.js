@@ -15,7 +15,7 @@
   \**********************/
 /***/ (() => {
 
-eval("\n\n//# sourceURL=webpack:///./src/index.js?");
+eval("class Todos{\n    constructor(title, description, dueDate, priority, notes, checklist){\n      this.title = title;\n      this. description = description;\n      this.dueDate = dueDate;\n      this.priority = priority;\n      this.notes = notes;\n      this.checkList = checkList;\n    }\n}\n\n\n\n//# sourceURL=webpack:///./src/index.js?");
 
 /***/ })
 
